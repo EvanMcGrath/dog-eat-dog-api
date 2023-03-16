@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 
+const { v4: uuid } = require('uuid');
+const fs = require('fs');
 const cors = require('cors');
 require('dotenv').config();
 const PORT = process.env.PORT;
@@ -13,6 +15,19 @@ app.use(cors({
 }))
 app.use(express.static('public'))
 
+
+app.get('/dogs', (_req, res) => {
+
+    const dogList = JSON.parse(fs.readFileSync('./data/dogs.json'));
+
+    const dogListIds = dogList.map((dog) => {
+        dog.id = uuid();
+        return dog
+    })
+
+    res.json(dogListIds)
+
+})
 
 
 

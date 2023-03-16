@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Athena",
+        "image":"http://localhost:8080/images/dog1.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Teal",
+        "image":"http://localhost:8080/images/dog2.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Tigress",
+        "image":"http://localhost:8080/images/dog3.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Fanny",
+        "image":"http://localhost:8080/images/dog4.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Chewbarka",
+        "image":"http://localhost:8080/images/dog5.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Sarah Jessica Barker",
+        "image":"http://localhost:8080/images/dog6.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Jelly Bean",
+        "image":"http://localhost:8080/images/dog7.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Jujubi",
+        "image":"http://localhost:8080/images/dog8.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Captain Kirk",
+        "image":"http://localhost:8080/images/dog9.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Santa Paws",
+        "image":"http://localhost:8080/images/dog10.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Tron",
+        "image":"http://localhost:8080/images/dog11.jpg",
+        "wins": "0",
+        "losses": "0"
+    },
+    {
+        "name": "Thor",
+        "image":"http://localhost:8080/images/dog12.jpg",
+        "wins": "0",
+        "losses": "0"
+    }
+]
