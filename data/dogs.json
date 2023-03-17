@@ -1,74 +1,86 @@
 [
     {
-        "name": "Athena",
-        "image":"http://localhost:8080/images/dog1.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Teal",
-        "image":"http://localhost:8080/images/dog2.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Tigress",
-        "image":"http://localhost:8080/images/dog3.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Fanny",
-        "image":"http://localhost:8080/images/dog4.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Chewbarka",
-        "image":"http://localhost:8080/images/dog5.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Sarah Jessica Barker",
-        "image":"http://localhost:8080/images/dog6.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Jelly Bean",
-        "image":"http://localhost:8080/images/dog7.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Jujubi",
-        "image":"http://localhost:8080/images/dog8.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
         "name": "Captain Kirk",
-        "image":"http://localhost:8080/images/dog9.jpg",
-        "wins": "0",
-        "losses": "0"
-    },
-    {
-        "name": "Santa Paws",
-        "image":"http://localhost:8080/images/dog10.jpg",
-        "wins": "0",
-        "losses": "0"
+        "image": "http://localhost:8080/images/dog9.jpg",
+        "wins": "1",
+        "losses": "1",
+        "id": "6c0eb9b6-b5d3-4c8b-8a92-9f72b709adcd"
     },
     {
         "name": "Tron",
-        "image":"http://localhost:8080/images/dog11.jpg",
-        "wins": "0",
-        "losses": "0"
+        "image": "http://localhost:8080/images/dog11.jpg",
+        "wins": "1",
+        "losses": "1",
+        "id": "35d8bf56-91c6-48e7-a85a-42e3c8858ccf"
     },
     {
-        "name": "Thor",
-        "image":"http://localhost:8080/images/dog12.jpg",
-        "wins": "0",
-        "losses": "0"
+        "name": "Athena",
+        "image": "http://localhost:8080/images/dog1.jpg",
+        "wins": "1",
+        "losses": "1",
+        "id": "6bb6dd7e-88b4-417d-968e-f7dcc2b385c6"
+    },
+    {
+        "name": "William Shakespaw",
+        "image": "http://localhost:8080/images/dog12.jpg",
+        "wins": "1",
+        "losses": "1",
+        "id": "36f3eef5-127c-4af9-ba26-f876568ebdd4"
+    },
+    {
+        "name": "Santa Paws",
+        "image": "http://localhost:8080/images/dog10.jpg",
+        "wins": "1",
+        "losses": "1",
+        "id": "e729e39d-fc5c-463a-ade0-9c955fa9087e"
+    },
+    {
+        "name": "Finley",
+        "image": "http://localhost:8080/images/dog8.jpeg",
+        "wins": "8",
+        "losses": "2",
+        "id": "b2d929a2-6849-4e3e-914a-b664768c803b"
+    },
+    {
+        "name": "Jelly Bean",
+        "image": "http://localhost:8080/images/dog7.jpg",
+        "wins": "3",
+        "losses": "4",
+        "id": "46169f6e-d98c-458d-a75f-d94ca7a77766"
+    },
+    {
+        "name": "Fuzz Lightyear",
+        "image": "http://localhost:8080/images/dog3.jpg",
+        "wins": "1",
+        "losses": "2",
+        "id": "ff1d1a75-01d1-4e6d-8189-dec2274db78f"
+    },
+    {
+        "name": "Sarah Jessica Barker",
+        "image": "http://localhost:8080/images/dog6.jpg",
+        "wins": "4",
+        "losses": "2",
+        "id": "e8f51531-379f-4c20-bc32-05dcbc1057d6"
+    },
+    {
+        "name": "Fanny",
+        "image": "http://localhost:8080/images/dog4.jpg",
+        "wins": "2",
+        "losses": "3",
+        "id": "fc8f3171-61a3-4909-ad9e-da7b77b25ca4"
+    },
+    {
+        "name": "Teal",
+        "image": "http://localhost:8080/images/dog2.jpg",
+        "wins": "3",
+        "losses": "2",
+        "id": "8f9ec1be-65f5-4363-bd5a-e61519a0a43b"
+    },
+    {
+        "name": "Chewbarka",
+        "image": "http://localhost:8080/images/dog5.jpg",
+        "wins": "2",
+        "losses": "3",
+        "id": "6c9c0486-0362-4a2b-8a2c-e6920e8e0414"
     }
 ]
